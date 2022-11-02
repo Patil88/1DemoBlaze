@@ -6,12 +6,10 @@ import testBase.TestBase;
 
 public class Testpages extends TestBase {
 	
-@Test
+private void syso() {
+	// TODO Auto-generated method stub
+System.out.println("new changes done");
+}
 
-public static void main(String[args]) {public void testexecute()
-	{
-	TestBase t=new TestBase();
-	t.test1();
-	}
 }
-}
+
